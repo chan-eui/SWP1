@@ -1,3 +1,3 @@
 20213017 chaneui
-Kookmin Univ. SW
+Kookmin Univ. Aric
 
