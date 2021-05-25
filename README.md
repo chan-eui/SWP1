@@ -1,2 +1,2 @@
-20213017 chaneui
-Kookmin Univ. computer
+chaneui 20213017
+Kookmin Univ. Software
